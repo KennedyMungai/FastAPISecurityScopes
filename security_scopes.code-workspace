@@ -6,7 +6,10 @@
 	],
 	"settings": {
 		"cSpell.words": [
-			"fastapi"
+			"fastapi",
+			"johndoe",
+			"passlib",
+			"pydantic"
 		]
 	}
 }
